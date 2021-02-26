@@ -1,14 +1,3 @@
 # Debit & Credit
-## H2
-### H3
-#### H4
-##### H5
-###### H6
 
-Alternatively, for H1 and H2, an underline-ish style:
-
-Alt-H1
-======
-
-Alt-H2
-------
+Debit & Credit is a personal finance app, you can read more about it on [the official website](https://debitandcredit.app). This is a blog where we publish articles about our new updates.
