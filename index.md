@@ -7,3 +7,4 @@ Not every update gets a blog post though :)
 ## Recent Updates
 
 [Version 5.3.3 - 1 March, 2021](https://blog.debitandcredit.app/version-5.3.3.md)
+[Version 5.3 - 15 January, 2021](https://blog.debitandcredit.app/version-5.3.md)
